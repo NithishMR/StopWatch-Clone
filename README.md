@@ -3,7 +3,7 @@
 <p>Start,Stop and Reset </p>
 <h1>UI of the page</h1>
 <img src="ui.png" alt="">
-<h1>Working Demo</h1>
-<video  controls>
+<!-- <h1>Working Demo</h1> -->
+<!-- <video  controls>
   <source src="./Demo.mp4" type="video/mp4">
-</video>
+</video> -->
